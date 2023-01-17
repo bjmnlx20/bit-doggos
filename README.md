@@ -47,15 +47,13 @@ Goerli test network used for smart contract deployment.  <br>
 <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/goerli.png" width="200"> <br>
 
   </p>
-<br>
-<br>
+
 <p >
                                                                                                                   
  [alchemy](https://alchemy.io/) used as blockchain node provider. <br>
   
   </p>
-<br>
-<br>
+
   
   
 
