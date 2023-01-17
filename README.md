@@ -32,7 +32,10 @@ Build tool: npm
 
 # Smart contract to enable minting of NFT
 <p align="center">
-It's an ERC721 contract at its core.
+Found in contracts > BitDoggosNFT.sol. ERC721 with some added functionality of minting control.
+<img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/contract.png" > <br>
+
+
   </p>
 <br>
 
@@ -40,8 +43,9 @@ It's an ERC721 contract at its core.
 
 # Deployment of smart contract
 <p align="center">
-<img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/goerli.png" width="200"> <br>
 Goerli test network used for smart contract deployment.  <br>
+<img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/goerli.png" width="200"> <br>
+
   </p>
 <br>
 <br>
