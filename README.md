@@ -1,10 +1,12 @@
-# Bit-Doggos :smirk_cat::smoking::city_sunset:
+# Bit-Doggos :dog::city_sunset:
 <p align="center">
   <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/BitDoggos.gif">
 <p>
 <br>
   
-Bit Doggos is a ***WEB 3.0 website*** that enables minting of the Bit Doggos NFT. Goerli faucet runs pretty dry these days, any mints are appreciated :D
+Bit Doggos is a ***WEB 3.0 website*** that enables minting of the Bit Doggos NFT. Goerli faucet runs pretty dry these days, any mints are appreciated.
+
+Site: https://bit-doggos.netlify.app
 <br>
 <br>
 
@@ -44,7 +46,6 @@ Goerli test network used for smart contract deployment.  <br>
 <br>
 <br>
 <p align="center">
-  <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/etherScan.png" width="400"> <br
                                                                                                                   
  [alchemy](https://alchemy.io/) used as blockchain node provider. <br>
   
