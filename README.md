@@ -4,7 +4,7 @@
 <p>
 <br>
   
-Bit Doggos is a ***WEB 3.0 website*** that enables minting of the Bit Doggos NFT. Goerli faucet runs pretty dry these days, any mints are appreciated.
+Bit Doggos is a ***WEB 3.0 website*** that enables minting of the Bit Doggos NFT. Goerli faucet runs pretty dry these days, your mints are very, very welcome!
 
 Site: https://bit-doggos.netlify.app
 <br>
