@@ -59,22 +59,22 @@ ReactJS & ChakraUI <br>
 
 # To use Bit-Doggos
   
-  <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/step1.PNG" width="800"> <br>
+  <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/step1.png" width="800"> <br>
   <li> Step 1 : Connect your metamask wallet by clicking on the connect button at the top right corner of the webpage.
   <br>
   <br>
   <br>
-   <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/step2.PNG" width="800"> <br>
+   <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/step2.png" width="800"> <br>
   <li> Step 2 : You will be able to see the mint and amount to mint button after connecting successfully.
   <br>
   <br>
   <br>  
-  <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/step3.PNG" width="800"> <br>
+  <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/step3.png" width="800"> <br>
   <li> Step 3 : Upon clicking the purchase now button, metamask will reveal the transaction fees and gas fees.
   <br>
   <br>
   <br>  
-  <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/step4.PNG" width="300"> <br>
+  <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/step4.png" width="300"> <br>
   <li> Step 4 : You will be able to see your transaction upon confirmation.
   <br>
   <br>
