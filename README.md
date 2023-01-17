@@ -42,14 +42,14 @@ Found in contracts > BitDoggosNFT.sol. ERC721 with some added functionality of m
   
 
 # Deployment of smart contract
-<p align="center">
+<p >
 Goerli test network used for smart contract deployment.  <br>
 <img src="https://github.com/bjmnlx20/bit-doggos/blob/master/readmeImages/goerli.png" width="200"> <br>
 
   </p>
 <br>
 <br>
-<p align="center">
+<p >
                                                                                                                   
  [alchemy](https://alchemy.io/) used as blockchain node provider. <br>
   
@@ -57,9 +57,6 @@ Goerli test network used for smart contract deployment.  <br>
 <br>
 <br>
   
-# Creation of webpage
-ReactJS & ChakraUI <br>
-
   
 
 # To use Bit-Doggos
